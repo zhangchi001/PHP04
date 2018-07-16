@@ -1,0 +1,36 @@
+[ 2018-07-15T16:45:18+08:00 ] ::1 /think04/Project/index.php//Uploads/5b4af943daf22.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Uploads
+
+[ 2018-07-15T16:45:18+08:00 ] ::1 /think04/Project/index.php//Uploads/5b4af96f5278a.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Uploads
+
+[ 2018-07-15T16:45:18+08:00 ] ::1 /think04/Project/index.php//Uploads/5b4afa6fc3c0a.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Uploads
+
+[ 2018-07-15T16:45:43+08:00 ] ::1 /think04/Project/index.php//Uploads/5b4af943daf22.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Uploads
+
+[ 2018-07-15T16:45:43+08:00 ] ::1 /think04/Project/index.php//Uploads/5b4af96f5278a.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Uploads
+
+[ 2018-07-15T16:45:43+08:00 ] ::1 /think04/Project/index.php//Uploads/5b4afa6fc3c0a.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Uploads
+

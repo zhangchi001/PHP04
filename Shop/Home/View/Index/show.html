@@ -1,0 +1,45 @@
+ <!DOCTYPE html>
+ <html lang="en">
+ <head>
+ 	<meta charset="UTF-8">
+ 	<title>图片显示</title>
+ 	<style>
+			
+
+
+			div{
+
+				width:200px;
+				height:200px;
+				border:1px solid red;
+				float:left;
+				margin-left:8px;
+			}
+ 	</style>
+ </head>
+ <body>
+		
+			<h2>{$abc|default="游客"}</h2>
+
+
+
+			<foreach name="res" item="vo">
+			<div>
+				
+
+				<notempty name="vo.imgpath">
+				
+					<img src="__ROOT__/Shop/Public{$vo.imgpath}" alt="">	
+
+				</notempty>
+
+
+
+				<empty name="vo.imgpath">没有图片</empty>
+
+				<h2>{$vo.nm}</h2>
+
+			</div>		
+ 			</foreach>
+ </body>
+ </html>
